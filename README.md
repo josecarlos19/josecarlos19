@@ -1,8 +1,9 @@
 ### Olá! Eu sou o José Carlos! 😁✌️
 
-- 🔭 Atualmente sou desenvolvedor SAP-ABAP
-- 🌱 Estudo NodeJs e javascript para desenvolvimento de backend utilizando TDD
+- 💼 Atualmente sou desenvolvedor backend
+- 🌱 Estudo e trabalho com NodeJs e typescript/javascript para desenvolvimento de backend utilizando TDD
 - 📖 Faço faculdade de análise e desenvolvimento de sistemas
+- 🔭 Me aventuro no desenvolvimento frontend e mobile
 ##
 <div align="center">
   <a href="https://github.com/josecarlos19">
