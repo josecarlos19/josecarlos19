@@ -1,4 +1,4 @@
-### Olá! Eu sou o José Carlos! 😁✌️
+### Olá! Eu sou José Carlos! 😁✌️
 
 - 💼 Atualmente sou desenvolvedor backend
 - 🌱 Estudo e trabalho com NodeJs e typescript/javascript para desenvolvimento de backend utilizando TDD
