@@ -19,6 +19,7 @@
   <img align="center" alt="josecarlos19-nodejs" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="josecarlos19-ruby" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
   <img align="center" alt="josecarlos19-rails" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg">
+  <img align="center" alt="josecarlos19-rails" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original-wordmark.svg">
   <img align="center" alt="josecarlos19-abap" height="60" width="90" src="https://3.bp.blogspot.com/-r_DwDj2O5-4/VX_QVPGKexI/AAAAAAAAMWM/a-lM_Skha1Q/s1600/SAP-ABAP.jpg">  
 </div>
 
