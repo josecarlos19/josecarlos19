@@ -19,13 +19,13 @@
   <img align="center" alt="josecarlos19-Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="josecarlos19-Ts" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="josecarlos19-nodejs" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img align="center" alt="josecarlos19-rails" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original-wordmark.svg">
-  <img align="center" alt="josecarlos19-rails" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">
-  <img align="center" alt="josecarlos19-ruby" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
-  <img align="center" alt="josecarlos19-rails" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"> 
+  <img align="center" alt="josecarlos19-adonisjs" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original-wordmark.svg">
+  <img align="center" alt="josecarlos19-nestjs" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">
   <img align="center" alt="josecarlos19-reactjs" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="josecarlos19-nexttjs" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="josecarlos19-vuejs" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg"> 
+  <img align="center" alt="josecarlos19-ruby" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
+  <img align="center" alt="josecarlos19-rails" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"> 
   <img align="center" alt="josecarlos19-abap" height="60" width="90" src="https://3.bp.blogspot.com/-r_DwDj2O5-4/VX_QVPGKexI/AAAAAAAAMWM/a-lM_Skha1Q/s1600/SAP-ABAP.jpg"> 
 </div>
 
