@@ -1,9 +1,11 @@
 ### Olá! Eu sou José Carlos! 😁✌️
 
-- 💼 Atualmente sou desenvolvedor backend
-- 🌱 Estudo e trabalho com NodeJs e typescript/javascript para desenvolvimento de backend utilizando TDD
-- 📖 Faço faculdade de análise e desenvolvimento de sistemas
-- 🔭 Me aventuro no desenvolvimento frontend e mobile
+- 💼 Atualmente sou desenvolvedor backend e trabalho com Node.js e TypeScript/JavaScript.
+- ⚗️ Adepto de testes integrados (TDD).
+- 🔭 Além do backend, trabalho diariamente com frameworks frontend como Vue.js, React.js e Next.js.
+- 👀 Tenho muito interesse na área mobile, especialmente em React Native, que é a tecnologia que estudo para dispositivos portáteis.
+- 📖 Estou prestes a concluir minha faculdade de análise e desenvolvimento de sistemas.
+
 ##
 <div align="center">
   <a href="https://github.com/josecarlos19">
@@ -22,6 +24,9 @@
   <img align="center" alt="josecarlos19-ruby" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
   <img align="center" alt="josecarlos19-rails" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg">
   <img align="center" alt="josecarlos19-abap" height="60" width="90" src="https://3.bp.blogspot.com/-r_DwDj2O5-4/VX_QVPGKexI/AAAAAAAAMWM/a-lM_Skha1Q/s1600/SAP-ABAP.jpg">  
+  <img align="center" alt="josecarlos19-reactjs" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="josecarlos19-nexttjs" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
+  <img align="center" alt="josecarlos19-vuejs" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg"> 
 </div>
 
 ##
