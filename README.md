@@ -4,7 +4,6 @@
 - ⚗️ Adepto de testes integrados (TDD).
 - 🔭 Além do backend, trabalho diariamente com frameworks frontend como Vue.js, React.js e Next.js.
 - 👀 Tenho muito interesse na área mobile, especialmente em React Native, que é a tecnologia que estudo para dispositivos portáteis.
-- 📖 Estou prestes a concluir minha faculdade de análise e desenvolvimento de sistemas.
 
 ##
 <div align="center">
