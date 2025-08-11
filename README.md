@@ -1,9 +1,8 @@
-### Olá! Eu sou José Carlos! 😁✌️
+### Hello! I'm José Carlos! 😁✌️
 
-- 💼 Atualmente sou desenvolvedor backend e trabalho com Node.js e TypeScript/JavaScript.
-- ⚗️ Adepto de testes integrados (TDD).
-- 🔭 Além do backend, trabalho diariamente com frameworks frontend como Vue.js, React.js e Next.js.
-- 👀 Tenho muito interesse na área mobile, especialmente em React Native, que é a tecnologia que estudo para dispositivos portáteis.
+💼 Currently working as a backend developer specializing in Node.js and TypeScript/JavaScript.
+🔭 Beyond backend development, I work daily with frontend frameworks including Vue.js, React.js, and Next.js.
+👀 Passionate about mobile development, particularly React Native, which I'm actively studying for mobile solutions.
 
 ##
 <div align="center">
@@ -33,5 +32,4 @@
 
   <div> 
     <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-636374197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </div>
