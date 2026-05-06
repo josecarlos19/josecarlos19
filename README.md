@@ -33,11 +33,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=josecarlos19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecarlos19&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <a href="https://github.com/josecarlos19">
+    <img
+      height="170em"
+      src="https://github-readme-stats.vercel.app/api?username=josecarlos19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    />
+    <img
+      height="170em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecarlos19&layout=compact&theme=tokyonight&hide_border=true"
+    />
+  </a>
 </div>
 
 ---
