@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋 I'm José Carlos</h1>
 
 <p align="center">
-  Backend Developer focused on <strong>Node.js</strong> and <strong>TypeScript</strong>
+  Backend Developer focused on <strong>Node.js</strong>, <strong>TypeScript</strong>, and scalable architectures.
 </p>
 
 <p align="center">
-  Passionate about building scalable applications, APIs, and modern web/mobile solutions.
+  Passionate about backend performance, database query optimization, and building modern web/mobile applications.
 </p>
 
 ---
@@ -14,9 +14,11 @@
 
 - 💼 Backend Developer with daily experience in Node.js ecosystems
 - ⚡ Strong knowledge of TypeScript and JavaScript
+- 🧠 Focused on backend architecture and database performance optimization
+- 🗄️ I really enjoy optimizing SQL queries and improving application performance
 - 🎨 Frontend experience with Vue.js, React.js, and Next.js
-- 📱 Currently studying React Native for mobile development
-- 🛠️ Always improving performance, architecture, and developer experience
+- 📱 Experience with React Native for mobile development
+- 🛠️ Always improving performance, scalability, and developer experience
 
 ---
 
@@ -24,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,adonis,react,nextjs,vue,php,ruby,rails,mysql,postgres,docker,git" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,adonis,react,nextjs,vue,react,php,ruby,rails,mysql,postgres,docker,git" />
 
 </div>
 
